@@ -15,12 +15,12 @@ preserve private app data; uninstalling removes that data.
 
 ## Touch controls
 
-- Basically:
+--> Basically:
 Click on screen center = OK
--
+
 Click a little far from the center = RETURN
--
-TWO CLICKS: MENU/RETURN
+
+TWO CLICKS: MENU/RETURN (I recommend using two fingers at same time!)
 
 If you have any trouble, you can enable some action buttons.
 If you need a specific controller configuration for accessibility, let me know.
