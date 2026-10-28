@@ -1,4 +1,4 @@
-# EarthBound Android - Edzito Edition 3.6.4
+# Earthbound Android - Edzito Edition 3.6.4
 
 An experimental fan-made Android adaptation, based on Brian Pugh and
 contributors' EarthBound C implementation and Herringway/ebsrc's disassembly
