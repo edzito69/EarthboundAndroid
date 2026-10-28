@@ -17,7 +17,9 @@ preserve private app data; uninstalling removes that data.
 
 - Basically:
 Click on screen center = OK
+-
 Click a little far from the center = RETURN
+-
 TWO CLICKS: MENU/RETURN
 
 If you have any trouble, you can enable some action buttons.
