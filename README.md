@@ -15,6 +15,14 @@ preserve private app data; uninstalling removes that data.
 
 ## Touch controls
 
+- Basically:
+Click on screen center = OK
+Click a little far from the center = RETURN
+TWO CLICKS: MENU/RETURN
+
+If you have any trouble, you can enable some action buttons.
+If you need a specific controller configuration for accessibility, let me know.
+
 - Drag from your initial touch point to walk; drag farther to run.
 - Tap native menu choices directly. Hold during dialogue to speed up text.
 - Double tap or use two fingers for the personal menu / Back.
@@ -24,6 +32,8 @@ preserve private app data; uninstalling removes that data.
 - Button visibility, size and opacity are configurable in Touch.
 - Credits are available in the options menu. The optional God Menu includes
   a hitkill-button toggle; cheats and co-op remain experimental.
+
+
 
 ## Testing status
 
