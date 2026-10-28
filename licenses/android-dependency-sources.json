@@ -1,0 +1,32 @@
+[
+  {
+    "name": "platform",
+    "url": "https://dl.google.com/android/repository/platform-35_r02.zip",
+    "checksum": "0bb560a90a7a2cbd0dd8348224d518b638fe7949",
+    "algorithm": "sha1"
+  },
+  {
+    "name": "build-tools",
+    "url": "https://dl.google.com/android/repository/build-tools_r35_windows.zip",
+    "checksum": "af059bb67cf7786f45ee0db85e2d24985df1b4b6",
+    "algorithm": "sha1"
+  },
+  {
+    "name": "ndk",
+    "url": "https://dl.google.com/android/repository/android-ndk-r28c-windows.zip",
+    "checksum": "086bba43ff2f5eb0e387b15c8278bb4e0d89ba1d",
+    "algorithm": "sha1"
+  },
+  {
+    "name": "jdk",
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jdk_x64_windows_hotspot_17.0.20.1_1.zip",
+    "checksum": "e53a79c3c3d86865bd7e787903884331068e71321714ffd44f145785affc7cb0",
+    "algorithm": "sha256"
+  },
+  {
+    "name": "sdl",
+    "url": "https://github.com/libsdl-org/SDL/releases/download/release-2.32.10/SDL2-2.32.10.zip",
+    "checksum": null,
+    "algorithm": "sha256"
+  }
+]

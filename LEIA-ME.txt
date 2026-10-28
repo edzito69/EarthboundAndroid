@@ -1,0 +1,67 @@
+﻿EARTHBOUND Ver.3.0 — ANDROID
+Versão por Edzito, com muito amor.
+
+INSTALAÇÃO
+Android 8.0 ou superior, processador ARM64 (arm64-v8a).
+1. Transfira EarthBound Android 3.6.4.apk para seu celular e abra-o.
+2. Autorize a instalação desse arquivo nas configurações, se solicitado.
+3. Na primeira abertura, toque em Selecionar ROM / Choose ROM e escolha
+   sua própria ROM EarthBound (USA) original .sfc/.smc, sem tradução aplicada.
+   Aceita 3 MiB com ou sem cabeçalho adicional de 512 bytes. Extraia ZIP antes.
+4. O jogo verifica a ROM e guarda uma cópia no armazenamento privado.
+   O original não é alterado. As próximas aberturas usam a cópia importada.
+
+O APK padrão não contém ROM. Não baixa ROMs nem pede permissão de internet
+ou acesso amplo aos arquivos. Português/inglês são escolhidos no Menu F1.
+Os saves e configurações ficam no armazenamento privado do aplicativo.
+Desinstalar remove esses dados; mantenha cópias de suas partidas importantes.
+
+TOQUE
+- Encoste e arraste a partir desse ponto: analógico invisível para andar. Afaste o dedo para a Corrida (+23%, opcional).
+- Aproxime-se de um personagem/objeto e use o botão minimalista Interagir.
+- Toque em opções dos menus para selecionar/confirmar.
+- Dois dedos: menu no cenário, voltar em menus. Dois toques rápidos: menu. Pinça: zoom de 50% a 150%.
+- Mr. Saturn no canto superior esquerdo: Menu F1.
+- Botões OK/Voltar. Telefone ao lado do Mr. Saturn: quicksaves.
+- Na aba Android do F1: rotação automática, ajustes para ocultar
+  botões, tamanho, opacidade, distância para correr e pinça.
+- Passe o dedo para cima/baixo nas listas do F1. Dois dedos também voltam.
+No modo vertical o cenário ocupa a tela com enquadramento próprio.
+
+APK PESSOAL OPCIONAL
+A instalação acima já funciona importando a ROM no celular.
+Se estiver na pasta original COMPLETA do projeto no Windows, coloque uma
+única ROM compatível em "Coloque sua Room aqui" nesta pasta e execute
+"Criar APK pessoal.cmd". O resultado "EarthBound Android 3.6.4 - pessoal.apk"
+inclui a sua cópia para uso pessoal. O APK padrão permanece separado.
+A ROM só será incorporada se você executar esse comando. O script exige
+as pastas tools, .tools, .deps, desktop, engine e build do projeto original.
+Os pacotes portáteis não incluem esse ambiente de compilação.
+
+NOVIDADES
+EarthBound Android 3.6.4 no F1; Agradecimentos; rosa atrás da casa do Ness;
+Menu F1 clicável; cliques de menus corrigidos; volume em passos de 10%.
+Gameplay > God Menu: dois cliques no cadeado e confirmação explícita.
+Cheats podem quebrar a progressão; mantenha um estado separado.
+
+VALIDAÇÃO E LIMITES
+APK compilado e assinado localmente; assinatura v2/v3, alinhamento 16 KiB,
+bibliotecas ARM64, ausência de ROM e permissões conferidos. Gestos simulados
+com eventos SDL no Windows. Ainda NÃO foi executado em celular ou emulador
+Android; desempenho, áudio, gestos reais e recortes de tela precisam de teste.
+O APK local não foi publicado ou certificado pela Play Store.
+
+AGRADECIMENTOS
+Nintendo, Shigesato Itoi, APE e HAL Laboratory; Brian Pugh e colaboradores
+de BrianPugh/earthbound; angelo_wf/LakeSnes; Sam Lantinga e colaboradores
+de SDL2; Brian Pugh/tamp; Dale Weiler/incbin; FantasyAnime; TheRunaway5.
+EarthBound Brasil: Alex Foffano, Jared Morgan e toda a equipe de tradução.
+Edzito pela adaptação, com assistência de Codex. Obrigado à comunidade e aos
+jogadores! Créditos completos e termos: READ ME - English.txt e licenses.
+
+Modificação não oficial. Nenhuma ROM acompanha o APK padrão. Os materiais
+de terceiros mantêm os direitos e termos de seus autores; agradecimentos
+não concedem autorização para redistribuição.
+
+Cenário vertical em tela cheia; Ness a cerca de 40% da altura. F1 vertical com lista e rolagem.
+Arraste nas quatro direções para navegar pelos menus e alvos. Botões >> e << no canto superior direito: segure para acelerar ou retroceder. Ative em Touch. Telefone preto: salvar quicksave; vermelho: carregar quicksave. Somente os telefones aparecem por padrão. Segure um telefone por 0,6 segundo para abrir F1; Mr. Saturn pode ser reativado em Touch. OK/Voltar são opcionais e começam ocultos. Em Touch, desligue Mostrar botões durante o jogo para ocultar os controles no cenário.
